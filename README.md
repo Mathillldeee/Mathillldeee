@@ -1,30 +1,3 @@
-<!-- Add a link to a Google Fonts stylesheet for custom fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@300;500&display=swap" rel="stylesheet">
-
-<!-- Apply custom styles to the document -->
-<style>
-  body {
-    font-family: 'Montserrat', sans-serif;
-  }
-  h1 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    color: #2C3E50;
-  }
-  p {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    color: #34495E;
-  }
-  .highlight {
-    color: #E74C3C;
-    font-weight: 500;
-  }
-  .contact {
-    font-weight: 400;
-  }
-</style>
-
 # 👋 Hi, I’m @Mathillldeee
 
 ## 👀 About Me
