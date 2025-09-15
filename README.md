@@ -30,12 +30,9 @@ I'm looking to collaborate on projects related to **Formula 1** and the **financ
 
 ## 📫 How to Reach Me
 
-- **Email**: [mathilde.naudin@est.uexternado.edu.co](mailto:mathilde.naudin@est.uexternado.edu.co)
+- **Email**: [mathilde.naudin@est.uexternado.edu.co](mailto:m.naudin@audencia.com)
 - **LinkedIn**: [linkedin.com/in/mathilde-naudin-aa0524249](https://www.linkedin.com/in/mathilde-naudin-aa0524249)
 
-## ⚡ Fun Fact
-
-I love **Formula 1** and went to my first Grand Prix a year ago in Spa, Belgium. I'm looking forward to finding tickets for the **Mexican** or **Brazilian Grand Prix** next!
 
 <!--
 Mathillldeee/Mathillldeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
